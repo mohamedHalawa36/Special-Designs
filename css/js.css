@@ -179,7 +179,7 @@ body {
   height: 50%;
   width: 25px;
   position: absolute;
-  right: -25px;
+  right: -24px;
   top: 50%;
   transform: translateY(-50%);
 }
@@ -816,7 +816,7 @@ body {
   width: 20px;
   height: 20px;
   position: absolute;
-  right: -20px;
+  right: -19px;
   top: 20;
   background-color: white;
   -webkit-clip-path: polygon(50% 50%, 0 0, 0 100%);
